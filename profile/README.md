@@ -25,5 +25,4 @@ who want shoppers to see when an order will arrive.
 
 ## Legal
 
-- [Privacy Policy](https://shopinator.io/privacy-policy)
-- [Imprint](https://shopinator.io/legal)
+[Privacy Policy](https://shopinator.io/privacy-policy) · [Imprint](https://shopinator.io/legal)
