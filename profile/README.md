@@ -1,7 +1,7 @@
 # Shopinator
 
-We build Shopify apps for checkout and delivery. Every app starts with a real problem in a real store, and we turn it
-into an app with security, data privacy and direct support built in.
+We build Shopify apps you can trust. Every app starts with a real problem in a real store, and we turn it into an app
+with security, data privacy and direct support built in.
 
 ## Apps
 
