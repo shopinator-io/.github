@@ -1,6 +1,7 @@
 # Shopinator
 
-Shopinator builds apps for the Shopify App Store. It is a brand of Christian Schwan in Freiburg, Germany.
+We build Shopify apps for checkout and delivery. Every app starts with a real problem in a real store, and we turn it
+into an app with security, data privacy and direct support built in.
 
 ## Apps
 
