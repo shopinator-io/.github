@@ -15,15 +15,18 @@ and direct support built in, and is available in English, German, Spanish, Frenc
 <a href="https://apps.shopify.com/checkout-address-validator-1"><img src="https://shopinator.io/shopify/app-store-badge-dark.svg" alt="Get Address Validator on the Shopify App Store" height="48"></a>
 
 Shopify blocks an address without a postal code where the country needs one, but it only warns about a missing house
-number, and buyers can skip the warning. Address Validator turns that warning into a block: checkout waits until the
-buyer adds the house number. Fewer parcels come back as undeliverable.
+number, and buyers can skip the warning. Address Validator turns that warning into a block, can require a postal code
+where Shopify leaves it optional, and lets you write your own regex pattern per country for any check you need. Fewer
+parcels come back as undeliverable.
 
 - Blocks checkout when the house number or the postal code is missing
 - Also checks express checkouts: Shop Pay, PayPal, Apple Pay and Google Pay
-- Rules per country, starting from Shopify's address requirements, with your own pattern where you need one
+- Rules per country: require a postal code where Shopify leaves it optional, or write your own regex pattern
 - Parcel lockers, pickup points, P.O. boxes and "s/n" addresses pass, for example Packstation, Paczkomat and Point Relais
 - Buyer messages in 33 languages, editable for every language your store publishes
 - An address tester that runs any address through your rules, without placing an order
+- Pause the block with one setting; your rules stay saved
+- Admin in English, German, Spanish, French and Italian
 - Works on every Shopify plan; no Shopify Plus needed, because the check runs as a Shopify Function
 
 $4.99 a month or $49.99 a year, billed through Shopify, with a 14-day free trial.
@@ -31,7 +34,8 @@ $4.99 a month or $49.99 a year, billed through Shopify, with a 14-day free trial
 [Address Validator](https://shopinator.io/address-validator) ·
 [Docs](https://shopinator.io/docs/address-validator) ·
 [Shopify address validation explained](https://shopinator.io/docs/address-validator/shopify-address-validation) ·
-[Make the house number required](https://shopinator.io/docs/address-validator/house-number-required)
+[Country rules and regex patterns](https://shopinator.io/docs/address-validator/country-rules) ·
+[Postal codes](https://shopinator.io/docs/address-validator/postal-codes)
 
 ### Delivery Date: estimated delivery dates for Shopify
 
